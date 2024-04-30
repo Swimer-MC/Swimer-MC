@@ -4,7 +4,7 @@
 - 🕔 I have been programming for 5 years
 - ☕ Favorite language: Java
 - 💻 Website languages/frameworks: JS/Vue in front, PHP/CI4 in back.
-- ☎️ My discord: swimmer (swimer#0108 old format)
+- ☎️ My discord: swimer (swimer#0108 old format)
 - 🍕 I love strongly typed languages and pizza
 
 ---
